@@ -1,0 +1,20 @@
+.navbar {
+    background-color: rgb(0, 88, 143);
+}
+
+.navbar-toggler {
+    background-color: white;
+    outline: white;
+    border: 2px solid white;
+}
+
+.navbar-toggler:hover {
+    background-color: orange;
+    outline: orange;
+    border: 2px solid white;
+}
+
+footer {
+    background-color: rgb(0, 88, 143);
+    bottom: 0%;
+}
